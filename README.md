@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hwndept/learning-phoenix-chat.svg?branch=master)](https://travis-ci.org/hwndept/learning-phoenix-chat)
+[![Build Status](https://travis-ci.org/hwndept/learning-phoenix--chat-app.svg?branch=master)](https://travis-ci.org/hwndept/learning-phoenix--chat-app)
 
 # ChatApp
 
