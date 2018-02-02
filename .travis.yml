@@ -1,0 +1,8 @@
+language: elixir
+elixir: '1.6.0'
+otp_release: '20'
+services:
+  - postgresql
+before_script:
+  - mix ecto.create && mix ecto.migrate
+script: mix test

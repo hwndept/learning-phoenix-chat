@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hwndept/learning-phoenix-chat.svg?branch=master)](https://travis-ci.org/hwndept/learning-phoenix-chat)
+
 # ChatApp
 
 ## How to start working with a project
